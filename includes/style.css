@@ -1,0 +1,72 @@
+* { margin:0;
+    padding:0; }
+
+a { text-decoration: none;
+	color: #000000; }
+
+header { width: 100%;
+		 height: 100px;
+		 display:block;
+		 background-color: #eff0f7; }
+		
+nav { display: inline-block;
+	  padding-left: 30px; 
+	  font-family:Courier New, monospace; }	
+
+#logo {   display: inline-block;
+	      background: url(../images/logo1.png) no-repeat left center;
+		  font-family:Courier New, monospace;
+		  padding-left: 35px;
+		  padding-top: 20px;
+		  width: 197px;
+		  text-align: right;
+		  font-size: 15px;
+		  height:50px; }
+		  
+a:hover { color: #696564; }
+
+.cover_pic { background: url(../images/cover.png) no-repeat;
+             height: 800px;
+			 font-size:40px;
+			 color: #ffffff;
+			 font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+			 text-align: center; }
+
+.cover_a { color: #ffffff; 
+		   border-style:solid; 
+		   border-color:#281fe6; }
+					
+.Name { font-family:"Arial Black", Gadget, sans-serif;
+		padding-top:80px;
+		height: 340px;
+		background-color: #eff0f7;
+		font-size: 20px;
+		text-align: center; }
+		
+.pro_knowledge { padding-top: 80px;
+				 font-size: 50px; 
+				 text-align: center; }
+		
+.pro li { list-style-type: none;
+	      padding-top: 30px;
+		  font-size: 20px;
+		  font-family: "Impact", Charcoal, sans-serif; 
+		  padding-left: 63px; }
+
+ul img { vertical-align: middle;
+		 padding-right: 31px; }
+		  
+.Info  { background-color: #eff0f7; 
+		 padding-top: 30px; 
+		 padding-left: 41px; }
+
+footer img { vertical-align: middle; }
+
+
+
+
+
+
+
+
+		
