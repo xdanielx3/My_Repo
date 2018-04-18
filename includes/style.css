@@ -33,8 +33,10 @@ a:hover { color: #696564; }
 			 color: #ffffff;
 			 font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
 			 text-align: center; }
+			 
+.cover_name { text-decoration: #15a4fa underline; }
 
-.cover_a { color: #ffffff; 
+.cover_git { color: #ffffff; 
 		   border-style:solid; 
 		   border-color:#15a4fa; }
 					
@@ -60,6 +62,8 @@ a:hover { color: #696564; }
 
 ul img { vertical-align: middle;
 		 padding-right: 31px; }
+		 
+.down_little_bit { height:100px; }
 		  
 .Info  { background-color: #eff0f7; 
 		 padding-top: 25px;
