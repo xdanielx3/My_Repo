@@ -3,6 +3,8 @@
 
 a { text-decoration: none;
 	color: #000000; }
+	
+header, nav, main, section, footer {display:block;}
 
 header { width: 100%;
 		 height: 100px;
@@ -34,22 +36,25 @@ a:hover { color: #696564; }
 
 .cover_a { color: #ffffff; 
 		   border-style:solid; 
-		   border-color:#281fe6; }
+		   border-color:#15a4fa; }
 					
 .Name { font-family:"Arial Black", Gadget, sans-serif;
 		padding-top:80px;
 		height: 340px;
 		background-color: #eff0f7;
 		font-size: 20px;
-		text-align: center; }
+		text-align: center; 
+		color: #999999; }
 		
 .pro_knowledge { padding-top: 80px;
+				 padding-bottom: 60px;
 				 font-size: 50px; 
-				 text-align: center; }
+				 text-align: center;
+				 color: #2d3950; }
 		
 .pro li { list-style-type: none;
-	      padding-top: 30px;
-		  font-size: 20px;
+	      padding-bottom: 30px;
+		  font-size: 30px;
 		  font-family: "Impact", Charcoal, sans-serif; 
 		  padding-left: 63px; }
 
@@ -57,10 +62,13 @@ ul img { vertical-align: middle;
 		 padding-right: 31px; }
 		  
 .Info  { background-color: #eff0f7; 
-		 padding-top: 30px; 
-		 padding-left: 41px; }
+		 padding-top: 25px;
+		 padding-left: 41px; 
+		 height:65px;
+		 color: #999999; }
 
 footer img { vertical-align: middle; }
+
 
 
 
